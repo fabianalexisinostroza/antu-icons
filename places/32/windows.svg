@@ -51,7 +51,7 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="16"
-     inkscape:cx="9.330741"
+     inkscape:cx="-1.106759"
      inkscape:cy="18.466238"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
@@ -105,17 +105,21 @@
          style="opacity:1;fill:url(#linearGradient865);fill-opacity:1;stroke:none;stroke-width:2.23359871;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          inkscape:connector-curvature="0" />
     </g>
-    <path
-       inkscape:connector-curvature="0"
-       id="path2699-7-2"
-       d="m 24,291.64995 -9,0.99999 v 6.99998 l 9,8e-5 z m -10,0.99999 -7,1.00005 v 5.99991 h 7 z m -7,8.00005 v 6 l 7,0.99998 v -6.99998 z m 8,-9e-5 v 7.00007 l 9,0.99999 v -7.9999 z"
-       style="fill:#1463bf;fill-opacity:1;stroke-width:1.96760929;enable-background:new"
-       sodipodi:nodetypes="cccccccccccccccccccc" />
-    <path
-       inkscape:connector-curvature="0"
-       id="path2699-7"
-       d="m 24,290.64999 -9,0.99999 v 6.99998 l 9,8e-5 z m -10,0.99999 -7,1.00005 v 5.99991 h 7 z m -7,8.00005 v 6 l 7,0.99998 v -6.99998 z m 8,-9e-5 v 7.00007 l 9,0.99999 v -7.9999 z"
-       style="fill:#f1f9ff;fill-opacity:1;stroke-width:1.96760929;enable-background:new"
-       sodipodi:nodetypes="cccccccccccccccccccc" />
+    <g
+       id="g825"
+       transform="translate(0,-0.99997)">
+      <path
+         sodipodi:nodetypes="cccccccccccccccccccc"
+         style="fill:#1463bf;fill-opacity:1;stroke-width:1.96760929;enable-background:new"
+         d="m 24,291.64995 -9,0.99999 v 6.99998 l 9,8e-5 z m -10,0.99999 -7,1.00005 v 5.99991 h 7 z m -7,8.00005 v 6 l 7,0.99998 v -6.99998 z m 8,-9e-5 v 7.00007 l 9,0.99999 v -7.9999 z"
+         id="path2699-7-2"
+         inkscape:connector-curvature="0" />
+      <path
+         sodipodi:nodetypes="cccccccccccccccccccc"
+         style="fill:#f1f9ff;fill-opacity:1;stroke-width:1.96760929;enable-background:new"
+         d="m 24,290.64999 -9,0.99999 v 6.99998 l 9,8e-5 z m -10,0.99999 -7,1.00005 v 5.99991 h 7 z m -7,8.00005 v 6 l 7,0.99998 v -6.99998 z m 8,-9e-5 v 7.00007 l 9,0.99999 v -7.9999 z"
+         id="path2699-7"
+         inkscape:connector-curvature="0" />
+    </g>
   </g>
 </svg>
